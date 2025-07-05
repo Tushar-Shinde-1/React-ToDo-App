@@ -47,6 +47,10 @@ Todo/
 git clone https://github.com/Tushar-Shinde-1/React-ToDo-App.git
 
 ```
+Move into clone folder
+```bash
+cd React-ToDo-App
+```
 
 2. Install dependencies
 ```bash
