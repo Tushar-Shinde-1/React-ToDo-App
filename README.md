@@ -60,7 +60,7 @@ npm install
 3. Start the development server
 ```bash
 
-set NODE_OPTIONS=--openssl-legacy-provider
+
 npm start
 ```
 Note: On Mac/Linux, use export NODE_OPTIONS=--openssl-legacy-provider instead.
