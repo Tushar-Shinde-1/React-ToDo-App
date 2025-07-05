@@ -44,7 +44,7 @@ Todo/
 
 ### 1. Clone the repository or download the folder
 ```bash
-git clonehttps://github.com/Tushar-Shinde-1/React-ToDo-App.git
+git clone https://github.com/Tushar-Shinde-1/React-ToDo-App.git
 cd React-ToDo-App
 ```
 
